@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1532488557 source:g:\googledrive\ude\prog3 obl\obligatoriopiii\alumno.cpp
+	"Alumno.h"
+
+1532488161 g:\googledrive\ude\prog3 obl\obligatoriopiii\alumno.h
+	"Escolaridades.h"
+
+1532488036 g:\googledrive\ude\prog3 obl\obligatoriopiii\string.h
+	<stdio.h>
+	<stdlib.h>
+
+1531007279 source:g:\googledrive\ude\prog3 obl\obligatoriopiii\aprobacion.cpp
+
+1531028702 source:g:\googledrive\ude\prog3 obl\obligatoriopiii\arbolalumnos.cpp
+	"arbolAlumnos.h"
+
+1532488557 source:g:\googledrive\ude\prog3 obl\obligatoriopiii\asignatura.cpp
+	"Asignatura.h"
+
+1531023821 source:g:\googledrive\ude\prog3 obl\obligatoriopiii\listaasignaturas.cpp
+	"listaAsignaturas.h"
+
+1531023674 source:g:\googledrive\ude\prog3 obl\obligatoriopiii\listapreviaturas.cpp
+	"listaPreviaturas.h"
+
+1532486510 source:g:\googledrive\ude\prog3 obl\obligatoriopiii\main.cpp
+	"menu.h"
+
+1532486510 g:\googledrive\ude\prog3 obl\obligatoriopiii\menu.h
+	"Alumnos.h"
+
+1532488645 source:g:\googledrive\ude\prog3 obl\obligatoriopiii\fecha.cpp
+	"Fecha.h"
+
+1532316091 g:\googledrive\ude\prog3 obl\obligatoriopiii\fecha.h
+	<stdio.h>
+
+1532488036 source:g:\googledrive\ude\prog3 obl\obligatoriopiii\string.cpp
+	"String.h"
+
+1532488161 g:\googledrive\ude\prog3 obl\obligatoriopiii\asignatura.h
+	"String.h"
+
+1532488557 source:g:\googledrive\ude\prog3 obl\obligatoriopiii\escolaridad.cpp
+	"Escolaridad.h"
+
+1531617396 g:\googledrive\ude\prog3 obl\obligatoriopiii\escolaridad.h
+	"Fecha.h"
+	"Asignaturas.h"
+
+1531030216 source:g:\googledrive\ude\prog3 obl\obligatoriopiii\listaescolaridades.cpp
+	"listaEscolaridades.h"
+
+1532489084 source:g:\googledrive\ude\prog3 obl\obligatoriopiii\menu.cpp
+	"menu.h"
+
+1531030181 g:\googledrive\ude\prog3 obl\obligatoriopiii\listaescolaridades.h
+	"escolaridad.h"
+
+1531023672 g:\googledrive\ude\prog3 obl\obligatoriopiii\listapreviaturas.h
+	"asignatura.h"
+
+1531028702 g:\googledrive\ude\prog3 obl\obligatoriopiii\arbolalumnos.h
+	"alumno.h"
+
+1531023821 g:\googledrive\ude\prog3 obl\obligatoriopiii\listaasignaturas.h
+	"asignatura.h"
+
+1531031438 g:\googledrive\ude\prog3 obl\obligatoriopiii\listaadypreviaturas.h
+	"asignatura.h"
+
+1531029455 source:g:\googledrive\ude\prog3 obl\obligatoriopiii\arregloasignaturas.cpp
+	"arregloAsignaturas.h"
+
+1531029435 g:\googledrive\ude\prog3 obl\obligatoriopiii\arregloasignaturas.h
+	"asignatura.h"
+
+1531025738 source:g:\googledrive\ude\prog3 obl\obligatoriopiii\listaadypreviaturas.cpp
+	"listaAdyPreviaturas.h"
+
+1532488161 g:\googledrive\ude\prog3 obl\obligatoriopiii\escolaridades.h
+	"Escolaridad.h"
+	"Previaturas.h"
+
+1532488557 g:\googledrive\ude\prog3 obl\obligatoriopiii\previaturas.h
+	"Asignaturas.h"
+
+1531598514 source:g:\googledrive\ude\prog3 obl\obligatoriopiii\alumno.h
+	"Escolaridades.h"
+
+1532488557 source:g:\googledrive\ude\prog3 obl\obligatoriopiii\alumnos.cpp
+	"Alumnos.h"
+
+1532488161 g:\googledrive\ude\prog3 obl\obligatoriopiii\alumnos.h
+	"Alumno.h"
+
+1531584864 source:g:\googledrive\ude\prog3 obl\obligatoriopiii\alumnos.h
+	"Alumno.h"
+
+1532488557 source:g:\googledrive\ude\prog3 obl\obligatoriopiii\asignaturas.cpp
+	"Asignaturas.h"
+
+1532488161 g:\googledrive\ude\prog3 obl\obligatoriopiii\asignaturas.h
+	"Constantes.h"
+	"Asignatura.h"
+
+1532488557 source:g:\googledrive\ude\prog3 obl\obligatoriopiii\escolaridades.cpp
+	"Escolaridades.h"
+
+1532488557 source:g:\googledrive\ude\prog3 obl\obligatoriopiii\previaturas.cpp
+	"Previaturas.h"
+
+1532488161 g:\googledrive\ude\prog3 obl\obligatoriopiii\constantes.h
+	<stdio.h>
+
+1532121198 source:g:\googledrive\ude\prog3 obl\obligatoriopiii\constantes.cpp
+	"Constantes.h"
+
